@@ -1,6 +1,7 @@
 # Hackintosh-Intel-NUC
 Install macOS Catalina, Big Sur, Montery on your Intel NUC5i5MYBE with dualboot using this guide.
-This guide is based on dortania's opencore guide. The EFI will updating recently like this guide, so you can check it some times for updates.
+This guide is based on [dortania's opencore guide](https://dortania.github.io/getting-started/) and [another guide by RehabMan](https://www.tonymacx86.com/threads/guide-intel-broadwell-nuc5-using-clover-uefi-nuc5i5mhye-nuc5i3myhe-etc.261712/). The EFI will updating recently like this guide, so you can check it some times for updates.
+### Thanks to RehabMan's guide and opencore guide!
 
 
 * Installation USB[]
